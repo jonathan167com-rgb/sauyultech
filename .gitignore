@@ -1,0 +1,21 @@
+# Node
+node_modules/
+npm-debug.log
+.env
+
+# Backups
+backups/*.json
+!backups/.gitkeep
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+backend/.env

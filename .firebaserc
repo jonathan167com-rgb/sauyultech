@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "sou-youl-tech"
+  },
+  "targets": {
+    "sou-youl-tech": {
+      "hosting": {
+        "souyoultech": [
+          "souyoultech"
+        ]
+      }
+    }
+  }
+}
